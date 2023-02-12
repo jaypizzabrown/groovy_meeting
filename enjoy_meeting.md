@@ -1,7 +1,7 @@
-## Steps for enjoying meeting
+## Enjoying meeting DRAFT VERSION 
 
 
-### What i'd like to do ! Is it clear ?   
+## What i'd like to do ! Is it clear ?   
 
     + Describe what you would like to do and how ou intend to do it. 
     + Be clear about your intended outcomes and the approach you will use to produce those outcomes. 
